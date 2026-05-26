@@ -122,6 +122,7 @@ Badge thresholds align with FAO Land Suitability Classes. The algorithm was cali
 | 📊 Data Science | [landiq-data-science](https://github.com/fawziyyahk/landiq-data-science) |
 | 📱 Mobile (Flutter) | [landiq](https://github.com/Rolalove/landiq) |
 | 🔧 Backend API | Live at https://backendlandiq.onrender.com |
+| Backend github repo | https://github.com/OlayinkaOmolabi/backendLandIQ |
 
 ---
 
